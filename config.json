@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailselete",
+        "uuid": 5716080,
+        "checksum": "yrtf2d"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
